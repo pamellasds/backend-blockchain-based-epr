@@ -1,0 +1,6 @@
+{
+    "idRegister": "${__Random(0000,3000)}",
+    "idUser":"${__Random(3001,6000)}",
+    "idPS":"${__Random(6001,9000)}",
+    "media_base64": "${__RandomString(15000,abcdefghijklmnopqrstuvwxyzABCDEFGHIJLMNOPRSTUVXZWY+=/)}"
+}
